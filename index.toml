@@ -1,8 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "index.html"
-hash = "16542b1d68b2652485e67de2df67aa45ed829dda6600e317c364e58fcdacf4d1"
+file = "README.md"
+hash = "c533a486a43b2f18f84dbcce91711dc5a3a958aa5a0071eaf248164f6f4ceeaa"
 
 [[files]]
 file = "mods/blockmeter.pw.toml"
