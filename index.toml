@@ -6,11 +6,6 @@ hash = "30f5f5e0b3bcbccb141a6ea7663115734e156af8afd19a412f6e7fcfd9e7ec89"
 metafile = true
 
 [[files]]
-file = "mods/bobby.pw.toml"
-hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
-metafile = true
-
-[[files]]
 file = "mods/boosted-brightness.pw.toml"
 hash = "a4b73adf9b334362164c5c3ff32c20b73fd6ada9517899ae6aa0ae8ed9ddc5f3"
 metafile = true
