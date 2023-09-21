@@ -1,12 +1,13 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "c533a486a43b2f18f84dbcce91711dc5a3a958aa5a0071eaf248164f6f4ceeaa"
-
-[[files]]
 file = "mods/blockmeter.pw.toml"
 hash = "30f5f5e0b3bcbccb141a6ea7663115734e156af8afd19a412f6e7fcfd9e7ec89"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "628ca822826f31018f97293b673e09defe9bc46616a7636bbd4a3b51ee4c9949"
 metafile = true
 
 [[files]]

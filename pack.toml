@@ -1,12 +1,12 @@
 name = "minecraft quilt but not rlly"
-author = "queen"
-version = "1.0.3"
+author = "qeen"
+version = "1.0.4"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "09d7977992e96ef6870151adb1e2171ec469455e6ce9a191a13c2fc33741fb72"
+hash = "0a4bf5249b55c91e65c9e9bd9f2f80111c4f7e8fa3b9c4c588b27043aade5b1a"
 
 [versions]
 fabric = "0.14.22"
